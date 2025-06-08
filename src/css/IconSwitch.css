@@ -1,0 +1,9 @@
+.switch-icon {
+    font-size: 40px;
+    cursor: pointer;
+    color: #555;
+}
+
+.switch-icon:hover {
+    color: #344960;
+}
